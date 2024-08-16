@@ -1,1 +1,1 @@
-Incomplete project cuz API from openAI is already paid content.
+Incomplete project cuz API from openAI charges payment for data.
